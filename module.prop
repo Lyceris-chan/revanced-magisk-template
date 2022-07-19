@@ -1,7 +1,7 @@
-id=ReVanced
-name=Unofficial ReVanced build
-version=v17.27.39
-versionCode=6
+id=ReVancedMusic
+name=Unofficial YouTube Music ReVanced build
+version=v5.14.53
+versionCode=1
 author=Lacia~chan (Lyceris-chan)
 description=Continuing the legacy of Vanced
-updateJson=https://raw.githubusercontent.com/Lyceris-chan/ReVanced-Updates/main/update.json
+updateJson=https://raw.githubusercontent.com/Lyceris-chan/ReVanced-Updates/main/updaterr.json
