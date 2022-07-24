@@ -1,7 +1,7 @@
 id=ReVanced
 name=Unofficial ReVanced build
-version=v17.27.39
-versionCode=6
+version=v17.28.34
+versionCode=7
 author=Lacia~chan (Lyceris-chan)
 description=Continuing the legacy of Vanced
 updateJson=https://raw.githubusercontent.com/Lyceris-chan/ReVanced-Updates/main/update.json
